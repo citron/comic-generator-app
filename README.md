@@ -1,2 +1,1 @@
-# comic-generator-app
-An app that generates comics explaining specific concepts
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
